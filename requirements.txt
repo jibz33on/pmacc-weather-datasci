@@ -1,0 +1,21 @@
+# Core data & math
+pandas
+numpy
+scipy
+scikit-learn
+
+# Plotting & visualization
+matplotlib
+seaborn
+plotly
+
+# Time series modeling
+statsmodels
+
+# Advanced modeling
+xgboost
+lightgbm
+shap
+
+# Mapping / spatial analysis
+folium
